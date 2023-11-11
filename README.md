@@ -1,4 +1,4 @@
-## An extension to style UITextField and add bottom border to it - Swift
+## UITextField underline style extension - Swift
 
 ### Sample
 <p align="center">
